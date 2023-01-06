@@ -9,6 +9,9 @@ Microsoft Power BI is a Business Intelligence service that enables you to create
 
 3. Power BI Mobile Applications for several platforms.
 
+## Sample Reports
+![Screenshot (54)](https://user-images.githubusercontent.com/111389636/211054589-155f945c-54f6-485f-ac79-08db03ab8e94.png)
+
 Business users utilize these services to collect data and generate BI reports. These three components are all meant to assist in building, exchanging, and leveraging business insights in the most efficient way possible for any business. Some of the benefits of leveraging Power BI include-
 
 1) ##### Easy Interaction with Existing Applications: 
